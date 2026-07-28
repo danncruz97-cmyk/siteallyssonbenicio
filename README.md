@@ -10,7 +10,7 @@ index.html        página completa (HTML + CSS + JS num só arquivo)
 assets/           logos, símbolo, retratos e imagem de compartilhamento
 robots.txt        libera indexação e aponta o sitemap
 sitemap.xml       sitemap com a URL canônica
-.nojekyll         desliga o processamento Jekyll no GitHub Pages
+.nojekyll         mantido por compatibilidade (não usado pela Vercel)
 ```
 
 ## Onde editar o que
@@ -27,4 +27,4 @@ Trechos que ainda precisam de revisão estão marcados com `EDITE AQUI`.
 
 ## Publicação
 
-Hospedado no GitHub Pages, a partir da branch `main`, pasta raiz.
+Hospedado na Vercel, com deploy automático a cada push na branch `main`.
